@@ -1,0 +1,32 @@
+[Priority: 102323, Label: Example2]
+ [ERROR] [2023-07-28 23:34:38] This is an error message using second logger.
+
+
+[Priority: 102323, Label: Example2]
+ [WARN] [2023-07-28 23:34:38] This is an error message using second logger2.
+
+
+[Priority: 102323, Label: Example2]
+ [ERROR] [2023-07-28 23:34:41] This is an error message using second logger.
+
+
+[Priority: 102323, Label: Example2]
+ [WARN] [2023-07-28 23:34:41] This is an error message using second logger2.
+
+
+[Priority: 102323, Label: Example2]
+ [ERROR] [2023-07-28 23:42:27] This is an error message using second logger.
+
+
+[Priority: 102323, Label: Example2]
+ [WARN] [2023-07-28 23:42:27] This is an error message using second logger2.
+
+
+[Priority: 102323, Label: Example2]
+ [ERROR] [2023-07-28 23:42:55] This is an error message using second logger.
+
+
+[Priority: 102323, Label: Example2]
+ [WARN] [2023-07-28 23:42:55] This is an error message using second logger2.
+
+

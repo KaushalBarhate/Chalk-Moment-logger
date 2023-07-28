@@ -1,0 +1,29 @@
+{
+  "name": "chalkylogger",
+  "version": "1.0.0",
+  "description": "A lightweight logger library offering log levels with distinct color marking based on severity",
+  "main": "logger.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Chalkylogger.js"
+  },
+
+  "author": "Kaushal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaushalBarhate/Chalklogger"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "homepage": "https://github.com/KaushalBarhate/Chalklogger",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4"
+  }
+}
