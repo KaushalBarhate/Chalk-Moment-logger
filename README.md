@@ -1,6 +1,6 @@
 # Chalkmomentlogger
 
-[![@latest](https://img.shields.io/npm/v/chalkmomentlogger.svg?label=version)](https://www.npmjs.com/package/chalkmomentlogger)
+[![@latest](https://img.shields.io/npm/v/chalkmomentlogger.svg)](https://www.npmjs.com/package/chalkmomentlogger)
 
 ChalkMomentlogger is a lightweight Node.js module that provides easy logging functionalities for your projects. With ChalkMomentlogger, you can output log messages to the console and optionally save them to a log file. It supports different log levels and allows you to customize the log format.
 
