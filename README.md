@@ -10,7 +10,7 @@ You can install Chalkmomentlogger in your Node.js project using npm:
 npm install Chalkmomentlogger
 ```
 
-** Note : Chalkmomentlogger is an ES module so you may need to add "type":"module" in package.json **
+**Note : Chalkmomentlogger is an ES module so you may need to add "type":"module" in package.json**
 
 ## Getting Started
 
@@ -44,10 +44,10 @@ logger.error('This is an error message.');   // For errors
 
 Chalkmomentlogger supports the following log levels, in order of severity:
 
-debug: For debugging information.
-info: For general information (default level).
-warn: For warnings.
-error: For errors.
+* debug: For debugging information.
+* info: For general information (default level).
+* warn: For warnings.
+* error: For errors.
 
 ```
 logger.debug('This is a debug message.');   // Will be shown only if log level is 'debug'
@@ -58,10 +58,11 @@ logger.error('This is an error message.');   // Will be shown if log level is 'd
 ## Log Formatting
 The logger formats log messages with different colors based on the log level:
 
-debug: Gray
-info: Blue
-warn: Yellow
-error: Red
+* debug: Gray
+* info: Blue
+* warn: Yellow
+* error: Red
+
 The log format is [LOG_LEVEL] [TIMESTAMP] MESSAGE [PRIORITY, LABEL] if 'priority' and 'label' are provided.
 
 ## Demo

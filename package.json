@@ -1,6 +1,6 @@
 {
   "name": "chalkmomentlogger",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight logger library offering log levels with distinct color marking based on severity",
   "main": "Chalkmomentlogger.js",
   "type": "module",
