@@ -65,7 +65,6 @@ error: Red
 The log format is [LOG_LEVEL] [TIMESTAMP] MESSAGE [PRIORITY, LABEL] if 'priority' and 'label' are provided.
 
 ## Demo
-![Alt text](image link)
 ![demo](demo.png)
 
 
