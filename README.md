@@ -1,6 +1,6 @@
 # Chalkmomentlogger
 
-ChalkMomentlogger is a lightweight Node.js module that provides easy logging functionalities for your projects. With Chalk-Moment-logger, you can output log messages to the console and optionally save them to a log file. It supports different log levels and allows you to customize the log format.
+ChalkMomentlogger is a lightweight Node.js module that provides easy logging functionalities for your projects. With ChalkMomentlogger, you can output log messages to the console and optionally save them to a log file. It supports different log levels and allows you to customize the log format.
 
 ## Installation
 
@@ -66,6 +66,7 @@ The logger formats log messages with different colors based on the log level:
 The log format is [LOG_LEVEL] [TIMESTAMP] MESSAGE [PRIORITY, LABEL] if 'priority' and 'label' are provided.
 
 ## Demo
-![demo](demo.png)
+![demo](https://github.com/KaushalBarhate/Chalk-Moment-logger/blob/e21a2d43e2a95a4cc00bd2d60d7a856f9db4d161/demo.png)
+<img width="923" alt="demo" src="https://github.com/KaushalBarhate/Chalk-Moment-logger/blob/e21a2d43e2a95a4cc00bd2d60d7a856f9db4d161/demo.png">
 
 
