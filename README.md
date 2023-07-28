@@ -1,29 +1,29 @@
-# Chalklogger
+# Chalk-Moment-logger
 
 ## Introduction
 
-Chalklogger is a lightweight Node.js module that provides easy logging functionalities for your projects. With Chalklogger, you can output log messages to the console and optionally save them to a log file. It supports different log levels and allows you to customize the log format.
+Chalk-Moment-logger is a lightweight Node.js module that provides easy logging functionalities for your projects. With Chalk-Moment-logger, you can output log messages to the console and optionally save them to a log file. It supports different log levels and allows you to customize the log format.
 
 ## Installation
 
-You can install Chalklogger in your Node.js project using npm:
+You can install Chalk-Moment-logger in your Node.js project using npm:
 
 ```
-npm install Chalklogger
+npm install Chalk-Moment-logger
 
 ```
 
-Note : Chalklogger is an ES module so you may need to add "type":"module" in package.json
+Note : Chalk-Moment-logger is an ES module so you may need to add "type":"module" in package.json
 
 ## Getting Started
 
-To use ChalkyLogger in your project, follow these steps:
+To use Chalk-Moment-logger in your project, follow these steps:
 
 1. Install the module as described in the Installation section.
 
 2. Import the logger in your Node.js files:
 ```
-import Chalklogger from 'Chalklogger';
+import Chalklogger from 'Chalk-Moment-logger';
 ```
 3. Creating a Logger
 ```
@@ -67,5 +67,3 @@ warn: Yellow
 error: Red
 The log format is [LOG_LEVEL] [TIMESTAMP] MESSAGE [PRIORITY, LABEL] if 'priority' and 'label' are provided.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.

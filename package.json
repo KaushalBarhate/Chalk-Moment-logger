@@ -1,8 +1,8 @@
 {
-  "name": "chalklogger",
+  "name": "Chalk-Moment-logger",
   "version": "1.0.0",
   "description": "A lightweight logger library offering log levels with distinct color marking based on severity",
-  "main": "Chalklogger.js",
+  "main": "Chalk-Moment-logger.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
