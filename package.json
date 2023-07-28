@@ -11,9 +11,9 @@
   "author": "Kaushal",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaushalBarhate/Chalklogger"
+    "url": "https://github.com/KaushalBarhate/Chalk-Moment-logger"
   },
-  "homepage": "https://github.com/KaushalBarhate/Chalklogger",
+  "homepage": "https://github.com/KaushalBarhate/Chalk-Moment-logger",
   "license": "ISC",
   "keywords": [
     "logger",
