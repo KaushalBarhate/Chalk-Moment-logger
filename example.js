@@ -1,4 +1,4 @@
-import Chalklogger from './Chalklogger.js';
+import Chalklogger from 'Chalklogger';
 const logger2 = new Chalklogger({
   logLevel: 'warn',
   dateFormat: 'YYYY-MM-DD HH:mm:ss',

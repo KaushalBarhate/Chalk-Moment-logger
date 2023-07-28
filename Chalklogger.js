@@ -127,4 +127,3 @@ log(level, message) {
 }
 
 export default Chalklogger;
-

@@ -9,9 +9,11 @@ Chalklogger is a lightweight Node.js module that provides easy logging functiona
 You can install Chalklogger in your Node.js project using npm:
 
 ```
-npm install chalklogger
+npm install Chalklogger
 
 ```
+
+Note : Chalklogger is an ES module so you may need to add "type":"module" in package.json
 
 ## Getting Started
 
@@ -21,7 +23,7 @@ To use ChalkyLogger in your project, follow these steps:
 
 2. Import the logger in your Node.js files:
 ```
-import Chalklogger from './Chalklogger.js';
+import Chalklogger from 'Chalklogger';
 ```
 3. Creating a Logger
 ```
@@ -42,6 +44,7 @@ logger.warn('This is a warning message.');   // For warnings
 logger.error('This is an error message.');   // For errors
 ```
 ## Log Levels
+
 ChalkyLogger supports the following log levels, in order of severity:
 
 debug: For debugging information.
