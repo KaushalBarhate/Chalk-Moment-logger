@@ -1,4 +1,4 @@
-# Chalk-Moment-logger
+# Chalkmomentlogger
 
 ## Introduction
 
@@ -6,24 +6,24 @@ Chalk-Moment-logger is a lightweight Node.js module that provides easy logging f
 
 ## Installation
 
-You can install Chalk-Moment-logger in your Node.js project using npm:
+You can install Chalkmomentlogger in your Node.js project using npm:
 
 ```
-npm install Chalk-Moment-logger
+npm install Chalkmomentlogger
 
 ```
 
-Note : Chalk-Moment-logger is an ES module so you may need to add "type":"module" in package.json
+Note : Chalkmomentlogger is an ES module so you may need to add "type":"module" in package.json
 
 ## Getting Started
 
-To use Chalk-Moment-logger in your project, follow these steps:
+To use Chalkmomentlogger in your project, follow these steps:
 
 1. Install the module as described in the Installation section.
 
 2. Import the logger in your Node.js files:
 ```
-import Chalklogger from 'Chalk-Moment-logger';
+import Chalklogger from 'Chalkmomentlogger';
 ```
 3. Creating a Logger
 ```
@@ -45,7 +45,7 @@ logger.error('This is an error message.');   // For errors
 ```
 ## Log Levels
 
-ChalkyLogger supports the following log levels, in order of severity:
+Chalkmomentlogger supports the following log levels, in order of severity:
 
 debug: For debugging information.
 info: For general information (default level).
